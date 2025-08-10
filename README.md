@@ -19,7 +19,3 @@ It can be customized for various tasks such as answering queries, controlling fe
 - **SpeechRecognition API** – For capturing and converting speech to text
 - **SpeechSynthesis API** – For generating voice responses
 - **CSS / Tailwind** – Styling
-
----
-
-## 📂 Project Structure
